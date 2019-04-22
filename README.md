@@ -6,4 +6,4 @@
 ## Useage:
 `git clone https://github.com/JV-X/flappy-bird.git`
 
-open `main.html ` with browser
+open `main.html` with browser
